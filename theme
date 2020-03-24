@@ -1,0 +1,24 @@
+Name=Adiumy
+Description=Smiley Theme from Adium - I couldn't find any already ported (or maybe I am too lazy to search properly), so I made this theme file
+Icon=gasp.tiff
+Author=hackan (hackan301@gmail.com)
+#Original theme downloaded from: http://www.adiumxtras.com/index.php?a=xtras&xtra_id=3012
+#Credits: Adam Betts
+
+[default]
+angel.tiff	0:-)	0:)
+cool.tiff	8-)	8)
+erm.tiff	:-/	:-\	:/	:\
+kiss.tiff	:-*	:*
+scared.tiff	:-!	:!
+wink.tiff	;-)	;)
+angry.tiff	>:-o	>:o	>:-0	>:0
+cry.tiff	:'-(	:'(
+gasp.tiff	:-o	:o	:-0	:0	=-o	=o	=-0	=0
+money.tiff	$-)	$)	:-$	:$
+smile.tiff	:-)	:)
+wub.tiff	:-x	:x	:-X	:X
+blush.tiff	:-[	:[	:-3	:3
+grin.tiff	:-D	:D
+sad.tiff	:-(	:(
+tongue.tiff	:-P	:P	:-p	:P
